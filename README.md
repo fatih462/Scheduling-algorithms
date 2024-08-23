@@ -1,4 +1,4 @@
-###Scheduling Algorithms Project
+### Scheduling Algorithms Project
 
 This repository contains the implementation of various scheduling algorithms as part of the "Systemprogrammierung" course at TU Berlin.
 
