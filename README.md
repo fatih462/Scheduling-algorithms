@@ -7,10 +7,15 @@ In this project, I explored and implemented several scheduling algorithms common
 The following scheduling algorithms have been implemented:
 
 FCFS: First-Come, First-Served
+
 LCFS: Last-Come, First-Served
+
 PRIOP: Priority Scheduling (Preemptive)
+
 SRTN: Shortest Remaining Time Next
+
 HRRN: Highest Response Ratio Next
+
 RR: Round Robin
 
 MLF: Multilevel Feedback Queue
